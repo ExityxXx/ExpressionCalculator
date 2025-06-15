@@ -40,6 +40,7 @@ print(f"Result: {result}")
 
 ## Credits
 🖥 - `Discord`: **`@exityxdev`**
+
 📱 - `Telegram`: **`@exityx`**
 
 ## Thanks You! ❤
