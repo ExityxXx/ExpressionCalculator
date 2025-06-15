@@ -38,4 +38,8 @@ print(f"Result: {result}")
 | `divide` `/` | `6 / 2 / 1.4` |
 | `parens` `()` | `5 + (3 * 2)`|
 
+## Credits
+🖥 - `Discord`: **`@exityxdev`**
+📱 - `Telegram`: **`@exityx`**
 
+## Thanks You! ❤
