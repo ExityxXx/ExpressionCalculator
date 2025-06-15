@@ -1,7 +1,7 @@
 # Expression Calculator
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
-[![PyPI Version](https://img.shields.io/pypi/v/expression-calculator)]([https://pypi.org/project/expression-calculator/](https://pypi.org/project/expression-calculator/0.1.0/))
+[![PyPI Version](https://img.shields.io/pypi/v/expression-calculator)](https://pypi.org/project/expression-calculator/0.1.0/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A secure mathematical expression evaluator with lexical analysis that doesn't use unsafe `eval()`
